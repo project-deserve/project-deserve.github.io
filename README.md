@@ -1,5 +1,5 @@
 # Project Deserve
-[Everyone Deserves Access to Healthcare](https://project-deserve.github.io/clinic-alpha-one/)
+[Alpha One Clinic](https://project-deserve.github.io/clinic-alpha-one/)
 
 ## Contents
 [Project Deserved](#1)  
